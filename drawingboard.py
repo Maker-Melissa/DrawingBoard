@@ -1,3 +1,11 @@
+# Wiring
+# ItsyBitsy        NeoTrellis
+#   SDA      <—>      SDA
+#   SCL      <—>      SCL
+#   Vin      <—>      Vin
+#   Ground   <—>      Ground
+#   10       <—>      Interrupt
+
 import time
 import random
 import board
